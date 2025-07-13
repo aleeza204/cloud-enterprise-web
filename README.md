@@ -11,7 +11,7 @@ A small enterprise-style web app hosted on Huawei Cloud with ECS, RDS, EIP, NAT 
 - VPC & Security Groups (for secure networking)
 
 ## 📷 Screenshots
-(see `/screenshots` folder)
+(see /screenshots folder)
 
 ## ⚙️ How to Deploy
 1. Create VPC, subnets, NAT Gateway

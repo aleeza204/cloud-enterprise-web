@@ -30,7 +30,7 @@ A small enterprise-style web app hosted on Huawei Cloud with ECS, RDS, EIP, NAT 
 - Web app running
 
 ## 🔗 Live Demo
-[http://YOUR_EIP](http://YOUR_EIP)
+[http://YOUR_EIP](http://190.92.209.192/wordpress/wp-admin/)
 
 ## 👤 Author
 Jasim ALI | [LinkedIn](https://www.linkedin.com/in/aleeza-shehzadi-201a7136a)
